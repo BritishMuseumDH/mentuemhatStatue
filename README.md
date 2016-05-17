@@ -17,7 +17,7 @@ CONTENTS
 METHODOLOGY
 ===========
 
-The model of the Nandi bull was created by simply walking around the object and taking pictures with a Nikon D5100.
+The model of Mentuemhat was created by simply walking around the object and taking pictures with a Nikon D5100.
 
 The dense point cloud was then generated and edited for cruft. Mesh was then generated and holes closed, texture applied and the model exported for use on Sketchfab and wherever else. All of these processes were done at medium
 settings.
